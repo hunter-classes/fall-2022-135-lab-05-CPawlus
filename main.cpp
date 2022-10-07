@@ -5,7 +5,8 @@ Instructor: Professor Zamansky
 Assignment: Functions and Prime Numbers, main.cpp, Lab 5.
 
 This program uses certain files to determine prime
-numbers its properties.
+numbers its properties. Als, uses a seperate file 
+tests.cpp to test the program.
 */
 
 #include <iostream>

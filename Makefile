@@ -14,4 +14,4 @@ tests.o: tests.cpp doctest.h funcs.h
 	g++ -c tests.cpp
 
 clean:
-	rm -f main main.o funcs.o tests.o 
+	rm -f main tests main.o funcs.o tests.o 
